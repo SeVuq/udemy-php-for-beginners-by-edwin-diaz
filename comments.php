@@ -10,7 +10,7 @@
     This is multiline comment */
     
     // One line comment
-    echo "Hello Students";
+    echo "Hello Student";
     ?>
     
     
