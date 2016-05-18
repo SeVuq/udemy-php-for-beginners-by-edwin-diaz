@@ -1,4 +1,4 @@
-<?php include 'functions.php';?>    
+<?php include_once 'functions.php';?>    
     <!-- Navigation -->
     <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="container">
